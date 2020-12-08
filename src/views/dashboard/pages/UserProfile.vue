@@ -101,7 +101,7 @@
           </v-form>
         </base-material-card>
       </v-col>
-
+/*
       <v-col cols="12" md="4">
         <base-material-card
           class="v-card-profile"
@@ -124,6 +124,7 @@
           </v-card-text>
         </base-material-card>
       </v-col>
+      */
     </v-row>
   </v-container>
 </template>
